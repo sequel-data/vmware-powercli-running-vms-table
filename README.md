@@ -5,4 +5,4 @@ connect-viserver 192.168.1.50 -User administrator@vsphere.local -Password 12345 
 cd ~/Downloads/
 ./runningvms.ps1
 
-CSV file is create at "C:\Users\$env:UserName\Desktop\Powered_On_VMs.csv"
+CSV file is created at "C:\Users\$env:UserName\Desktop\Powered_On_VMs.csv"
