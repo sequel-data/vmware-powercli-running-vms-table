@@ -1,6 +1,6 @@
 # To get started, You need to connect to server first with this command:
 
-connect-viserver [address] -User [user] -Password [password] -Force \
+connect-viserver [address] -User [user] -Password [password] -Force 
 
 cd ~/Downloads/
 
